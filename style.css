@@ -18,6 +18,30 @@
     color: yellow;
 }
 
+#black{
+    color: black
+}
+
+#brown{
+    color: brown
+}
+
+#gray{
+    color: gray
+}
+
+#purple{
+    color: purple
+}
+
+#white{
+    color: white
+}
+
+.brown-img{
+    object-fit: none;
+}
+
 .color-title {
     font-weight: normal;
 }
@@ -26,3 +50,4 @@ img {
     height: 200px;
     width:  200px;
 }
+
